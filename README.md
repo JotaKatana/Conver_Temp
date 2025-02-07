@@ -38,9 +38,9 @@ Esse projeto é um conversor de temperatura que utiliza duas opções de convers
 
 - [X] Resultado:
 
-![Inter 1](https://github.com/JotaKatana/Conver_Temp/blob/main/_assets/Inter1.PNG)
-![Inter 2](https://github.com/JotaKatana/Conver_Temp/blob/main/_assets/Inter2.PNG)
-![Inter 3](https://github.com/JotaKatana/Conver_Temp/blob/main/_assets/Inter3.PNG)
+![Inter 1](https://github.com/JotaKatana/Conver_Temp/blob/master/_assets/Inter1.PNG)
+![Inter 2](https://github.com/JotaKatana/Conver_Temp/blob/master/_assets/Inter2.PNG)
+![Inter 3](https://github.com/JotaKatana/Conver_Temp/blob/master/_assets/Inter3.PNG)
 
 ---
 
